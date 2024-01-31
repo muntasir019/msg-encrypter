@@ -9,7 +9,7 @@ def encrypt():
     if "+" in inp or "ENCRYPT" in inp:
 
         # random words list to append to the message 
-        # you can change it as you want [!]Remember to keep them 3 letter long or you have change the decrypt function
+        # you can change it as you want [!]Remember to keep them 3 letter long or you have to change the decrypt function
         rndm = ["hsd","fyj","dht","aef","rsh","yik","yuo","wfa","uty","wtf","ndf","qar","rwe","tjh","kgo","jrf","zww","eqr"]
 
         Encrypted_list = []
